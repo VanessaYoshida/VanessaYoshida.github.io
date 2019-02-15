@@ -1,17 +1,16 @@
-## Welcome to GitHub Pages
+## Vanessa Yoshida
 
-You can use the [editor on GitHub](https://github.com/VanessaYoshida/VanessaYoshida.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Olá eu sou a Vanessa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Habilidades
 
-### Markdown
+*Jogadora de Go
+*Estudante Front End
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contatos
+Van
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
 ## Header 2
 ### Header 3
 
